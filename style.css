@@ -11,7 +11,7 @@ body {
   background-color: white;
   width: 21rem;
   margin-top: 100px;
-  padding: 18px 25px;
+  padding: 18px 20px;
   border-radius: 20px;
   text-align: left;
   border: 1.5px solid black;
@@ -20,6 +20,8 @@ body {
 
 #card > img {
   border-radius: 10px;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 #learn{
