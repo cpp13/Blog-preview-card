@@ -25,15 +25,19 @@ body {
   margin-right: 0;
 }
 
-#learn{
-  background-color:hsl(47, 88%, 63%);
+#learn {
+  background-color: hsl(47, 88%, 63%);
   width: 60px;
   padding: 8px 14px;
   border-radius: 6px;
   font-weight: bold;
 }
 
-#info{
+#title:hover {
+  color: hsl(47, 88%, 63%);
+}
+
+#info {
   opacity: 50%;
 }
 
