@@ -1,10 +1,15 @@
 body{
     background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
+    font-weight: 400;
 }
 
 #card{
   background-color: white;
   width: 23vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
 }
 
 
